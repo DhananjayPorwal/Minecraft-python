@@ -46,8 +46,8 @@ python main.py
 
 - **WASD**: Move forward, left, backward, and right.
 - **Space**: Jump.
-- **Left Mouse Button**: Break blocks.
-- **Right Mouse Button**: Place blocks.
+- **Left Mouse Button**: Place blocks.
+- **Right Mouse Button**: Break blocks.
 - **1234**: Switch between different block types.
 
 ## Contributing 🤝
